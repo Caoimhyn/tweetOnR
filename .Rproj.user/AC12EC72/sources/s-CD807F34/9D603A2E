@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1551685659766.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9D603A2E",
+    "lastKnownWriteTime" : 1551701521,
+    "last_content_update" : 1551702020497,
+    "path" : "D:/dev/workspace_R/wikiOnR/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "34,0",
+        "scrollLine" : "3",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

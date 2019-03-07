@@ -29,3 +29,6 @@ ml_stream <- stream_read_csv(
   stream_write_csv("source-out")
 
 stream_generate_test(df = df, interval = 0.5)
+
+stream_stop(ml_stream)
+spark_disconnect(sc)

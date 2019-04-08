@@ -3,10 +3,7 @@ library(dplyr)
 library(splus2R)
 
 ##### Authentification ####
-consumer_key <- "lcGTDWiZinC7SgmLCGBubjtMN"
-consumer_secret <-"5zofQ1d3cvl8I329s3XTdkg7p7XQdNZKp4JoosNH38EuYQlbx2"
-access_token <- "3109736956-yy6PAHBmGbk3WgnEGpSWXfFUMdTBHgx1G4FLGaO"
-access_secret <- "WoEjlfdkPoVxRyW9MtjeoC3BtCZb7va34I6Q8md84T9xX" 
+
 
 setup_twitter_oauth(consumer_key, consumer_secret, access_token, access_secret)
 
